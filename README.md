@@ -1,4 +1,4 @@
-# COVID 2019 Timeline 
+# COR X - COVID 2019 Info 
 
 Demo Link: https://mithileysh.github.io/CORX-COVID19/
 
