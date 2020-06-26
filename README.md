@@ -4,21 +4,6 @@ COR X helps you keep track of the latest information regarding the ongoing pande
 
 Click here to use the [application] (https://mithileysh.github.io/CORX-COVID19/).
 
-
-
-
-
-
-<td align="center"><a href="https://mithileysh.github.io/CORX-COVID19/"><img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Get it on Github" height="68"></a></td>
-
-
-
-
-
-
-
-Demo Link: https://mithileysh.github.io/CORX-COVID19/
-
 ![](https://user-images.githubusercontent.com/45322680/78461416-ab570400-7696-11ea-95f5-c8b06b2395a4.gif)
 
 # Overview
